@@ -26,7 +26,7 @@ input.onButtonPressed(Button.A, function () {
     while (sides < 4) {
         // reset the steps to 0 so the sprite can move to the 4th coordinate before stopping
         steps = 0
-        // if its not in the last pixel then move 1 step foward and wait for 0.1 seconds
+        // if its not in the last pixel then move 1 step forward and wait for 0.1 seconds
         while (steps < 4) {
             sprite.move(1)
             basic.pause(100)
@@ -58,7 +58,7 @@ input.onButtonPressed(Button.B, function () {
     while (sides < 4) {
         // reset the steps to 0 so the sprite can move to the 4th coordinate before stopping
         steps = 0
-        // if its not in the last pixel then move 1 step foward and wait for 0.1 seconds
+        // if its not in the last pixel then move 1 step forward and wait for 0.1 seconds
         while (steps < 4) {
             sprite.move(1)
             basic.pause(100)
