@@ -1,4 +1,4 @@
-from microbit import pin19, pin20
+from MicroPython.microbit import pin19, pin20
 
 # I²C
 

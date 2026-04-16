@@ -1,15 +1,15 @@
-import accelerometer
-import audio
-import compass
-import display
-import i2c
-import microphone
-import neopixel
-import radio
-import speaker
-import speech
-import spi
-import uart
+import MicroPython.microbit.accelerometer as accelerometer
+import MicroPython.microbit.audio as audio
+import MicroPython.microbit.compass as compass
+import MicroPython.microbit.display as display
+import MicroPython.microbit.i2c as i2c
+import MicroPython.microbit.microphone as microphone
+import MicroPython.microbit.neopixel as neopixel
+import MicroPython.microbit.radio as radio
+import MicroPython.microbit.speaker as speaker
+import MicroPython.microbit.speech as speech
+import MicroPython.microbit.spi as spi
+import MicroPython.microbit.uart as uart
 
 # Functions
 

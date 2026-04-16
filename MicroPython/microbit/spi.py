@@ -1,4 +1,4 @@
-from microbit import pin13, pin15, pin14
+from MicroPython.microbit import pin13, pin15, pin14
 
 # SPI
 

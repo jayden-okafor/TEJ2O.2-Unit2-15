@@ -4,7 +4,7 @@ Created on: Apr 2026
 This program creates a circle loop using the sprite engine
 """
 
-from microbit import *
+from MicroPython.microbit import *
 
 # variables
 sides = 0
